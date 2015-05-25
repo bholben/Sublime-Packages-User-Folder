@@ -1,0 +1,26 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Twilight (SL).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Markdown"
+	],
+	"preview_on_click": true,
+	"remember_full_screen": true,
+	"rulers":
+	[
+		72,
+		80
+	],
+	"scroll_past_end": false,
+	"shift_tab_unindent": true,
+	"show_encoding": true,
+	"tab_size": 2,
+	"tabs_small": true,
+	"theme": "Seti.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}

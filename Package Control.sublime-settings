@@ -1,0 +1,31 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"ApplySyntax",
+		"AutoFileName",
+		"Better CoffeeScript",
+		"CoffeeCompile",
+		"Color Highlighter",
+		"DevDocs",
+		"Emmet",
+		"GitGutter",
+		"Handlebars",
+		"HTML-CSS-JS Prettify",
+		"Jade",
+		"LESS",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"MaxPane",
+		"Package Control",
+		"Sass",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"Stylus",
+		"SublimeLinter",
+		"SublimeLinter-jshint"
+	]
+}
