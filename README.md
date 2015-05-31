@@ -1,7 +1,7 @@
 
 # Sublime Packages User Folder
 
-This is the User directory under my Sublime Text 3 Packages area.
+This is the User directory under my Sublime Text 3 Packages area.  I'm using a MacBook Air.  Some of these packages and options may not work on other systems.
 
 ## Key Files of Note
 
