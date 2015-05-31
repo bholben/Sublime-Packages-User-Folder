@@ -11,7 +11,7 @@ This is the User directory under my Sublime Text 3 Packages area.
 
 ### What do I recall customizing after installation?
 
- - **Preferences.sublime-settings** - Top-level customizations
+ - **Preferences.sublime-settings** - Top-level customizations.  The Twilight color scheme will not be available under the SublimeLinter folder until after it has been selected from the menus: "Preferences > Color Scheme > Color Scheme - Default > Twilight".
  - **CoffeeCompile.sublime-settings** - Added coffee_path to get BetterCoffee to work
  - **ColorHighlighter.sublime-settings** - Customized to fill in colors in CSS files
  - **Markdown.sublime-settings** - Customized to add line numbers
